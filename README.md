@@ -1,4 +1,4 @@
-### Hi there 👋 I am Srijib btw , but u can call me Sriju
+#Nice To Meet You
 
 <!--
 **srijibmondal/srijibmondal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
